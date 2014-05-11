@@ -13,7 +13,7 @@ If you are using [Nautilus](http://wiki.gnome.org/Nautilus) file manager, you ca
 1. Download nautilus-ricoh-upload.py to a directory of your choice
 2. Edit `PATH`, `USERNAME` and `PASSWORD` in nautilus-ricoh-upload.py
 3. Create a symlink from `~/.gnome2/nautilus-scripts` to ricoh-upload.py:
-`cd ~/.gnome2/nautilus-scripts/; ln -s /usr/local/bin/ricoh-upload.py "Upload to RICOH server"`
+`cd ~/.gnome2/nautilus-scripts/; ln -s /usr/local/bin/nautilus-ricoh-upload.py "Upload to RICOH server"`
 4. To upload file(s): Select file(s) -> Right-click -> Scripts -> Upload to RICOH server
 
 Requirements
