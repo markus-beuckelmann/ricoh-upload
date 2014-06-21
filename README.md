@@ -16,6 +16,8 @@ If you are using [Nautilus](http://wiki.gnome.org/Nautilus) file manager, you ca
 `cd ~/.gnome2/nautilus-scripts/; ln -s /usr/local/bin/nautilus-ricoh-upload.py "Upload to RICOH server"`
 4. To upload file(s): Select file(s) -> Right-click -> Scripts -> Upload to RICOH server
 
+If you are using [Thunar](http://docs.xfce.org/xfce/thunar/start) file manager, go have a look at [Thunar's custom actions](http://docs.xfce.org/xfce/thunar/custom-actions).
+
 Requirements
 ------------
 
